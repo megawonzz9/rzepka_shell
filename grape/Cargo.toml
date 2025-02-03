@@ -1,0 +1,9 @@
+[package]
+name = "grape"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "1.11.1"
+colored = "3"
+owo-colors = "4.1.0"
