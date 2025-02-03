@@ -1,0 +1,8 @@
+[package]
+name = "tailz"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+att = "0.2.1"
+atty = "0.2.14"
